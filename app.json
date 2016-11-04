@@ -1,0 +1,11 @@
+{
+  "name": "iHeartRadioTest",
+  "keywords": [
+    "react",
+    "babel",
+  ],
+  "env": {
+    "PRODUCTION": "true",
+    "NPM_CONFIG_PRODUCTION": "false"
+  }
+}

@@ -1,0 +1,50 @@
+
+.content {
+  margin-top: 20px;
+}
+
+.tile {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flexItem {
+    display: flex;
+    flex-direction: column;
+}
+
+.colSm4 {
+  display: inline-block;
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.colSm4 {
+  display: inline-block;
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.colXs6 {
+  float: left;
+}
+.colXs6 {
+  width: 50%;
+}
+
+@media (min-width: 768px) {
+  .colSm4 {
+    display: inline-block;
+    float: left;
+  }
+  .colSm4 {
+    width: 33.33333333%;
+  }
+}
