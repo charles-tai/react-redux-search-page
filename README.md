@@ -1,4 +1,4 @@
-# iHeartRadio Takehome
+# React Redux Search Page 
 
 Single Page Application that allows users to search for artists using the iHeartRadio API.
 Built with React, Redux and Node.
